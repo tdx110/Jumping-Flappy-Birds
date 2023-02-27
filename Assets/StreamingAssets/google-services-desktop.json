@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1041847182862",
+    "project_id": "jumping-flappy-birds",
+    "storage_bucket": "jumping-flappy-birds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041847182862:android:07dab7b165e2aabde33e5f",
+        "android_client_info": {
+          "package_name": "com.VulcanGameStudio.JumpingFlappyBirds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041847182862-r7er06jbtksdfsqpaqa31pp1crdk7985.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.VulcanGameStudio.JumpingFlappyBirds",
+            "certificate_hash": "3dcb11855098287b5676a07c03a7fd5da545a9cc"
+          }
+        },
+        {
+          "client_id": "1041847182862-fp9ot0n2f5gitbt9mrcn8dci0ukncc2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk3NwV_hbHU5ZM8GE7ydwcbZzvC2hIgYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041847182862-fp9ot0n2f5gitbt9mrcn8dci0ukncc2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
